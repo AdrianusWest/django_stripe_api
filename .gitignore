@@ -5,8 +5,6 @@ dist
 .pytest_cache
 .venv
 .env
-page_loader/__pycache__
-page_loader/scripts/__pycache__### Diff template
 *.patch
 *.diff
 
