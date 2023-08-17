@@ -12,10 +12,10 @@ packages = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.10"
-Django = "^4.1.6"
-stripe = "^5.1.1"
-python-dotenv = "^0.21.1"
+python = "^3.11.3"
+Django = "^4.2.4"
+stripe = "^6.0.0"
+python-dotenv = "^1.0.0"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^6.0.0"
